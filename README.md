@@ -1,4 +1,4 @@
-SHORTEST PATH FINDING ALGORITHMS
+SHORTEST PATH FINDING ALGORITHMS.
 
 
 The project concerns with implementation of shortest path algorithms - ‘Dijkstra Algorithm’, ‘Bellman-Ford Algorithm’ and ‘Floyd-Warshall-
